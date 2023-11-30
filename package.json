@@ -1,0 +1,9 @@
+{
+  "name": "full-stack-with-mern_study",
+  "version": "0.0.0",
+  "description": "FullStackWithMERN_Study",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
